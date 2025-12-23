@@ -1,0 +1,9 @@
+langchain-core
+langchain-community
+langchain-groq
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+pandas
+requests
+gradio
