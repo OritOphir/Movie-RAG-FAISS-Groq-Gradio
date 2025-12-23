@@ -1,6 +1,7 @@
 # 🎬 Movie RAG Chatbot
 
 A clean and minimal Retrieval-Augmented Generation (RAG) project built on a movie dataset.
+* Running on public URL: https://ca71dcf0f7861139b6.gradio.live 
 
 ## What this project demonstrates
 - Document ingestion and chunking
